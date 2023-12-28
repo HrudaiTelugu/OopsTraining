@@ -6,8 +6,7 @@ public class InheritanceConcepts {
 		System.out.println("Hi git This is My Second Time to push in GitHub ");
 		System.out.println("I will Create the code From GitHub ");
 		System.out.println("Thankyou");
-		System.out.println("Pulling this Line from GitHub");
-
+		System.out.println(" Again Pulling this Line from GitHub");
 	}
 
 }
